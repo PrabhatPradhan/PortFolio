@@ -2,7 +2,7 @@ import { useEffect, useState, useMemo } from "react";
 import { motion } from "framer-motion";
 import "./HeroSection.css";
 import ProfileImage from "./../../assets/Img/my-photo.jpg";
-import Pdf from "./../../assets/pdf/DHIRAJBHAWSAR(resume).pdf";
+// import Pdf from "./../../assets/pdf/DHIRAJBHAWSAR(resume).pdf";
 
 const HeroSection = () => {
   const texts = useMemo(
