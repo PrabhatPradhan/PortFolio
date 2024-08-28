@@ -31,12 +31,6 @@ This portfolio showcases my skills and projects as a developer. It includes inte
 - **Responsive Design**: Ensures compatibility across various devices and screen sizes.
 - **Interactive Elements**: Engaging animations and transitions to enhance user experience.
 
-## Demo
-
-Check out the live demo of the portfolio:
-- [Vercel Link](https://dhirajbhawsarportfolio.netlify.app/)
-- [Netlify Link](https://dhirajbhawsarportfolio.netlify.app/)
-
 ## Installation
 
 To run this project locally, follow these steps:
@@ -44,8 +38,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-
+   git clone
 2. **Navigate to the project directory:**
 
     ```bash
