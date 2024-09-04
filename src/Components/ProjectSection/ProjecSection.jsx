@@ -78,9 +78,9 @@ const ProjectSection = () => {
       title: "Emoji Search",
       description:
         "The Emoji Search Website is an interactive web application designed to help users find and copy their favorite emojis quickly and efficiently. This project was built using HTML, CSS, and JavaScript, with a focus on providing a seamless user experience through intuitive design and functionality.",
-      link: "https://github.com/Dhirajbhavsar9900/Emojis_Searching_Project",
+      link: "https://github.com/PrabhatPradhan/find-emoji",
       image: ProjectFiveImage,
-      goLive: "https://emojis-searching-project.vercel.app/",
+      goLive: "https://prabhatpradhan.github.io/find-emoji/",
       tech: [html, css, js],
     },
     {
